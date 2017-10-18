@@ -1,0 +1,7 @@
+version: '2'
+services:
+  py:
+    image: aliyun-sdk-docker
+    build: ./aliyun-sdk-docker
+    volumes:
+      - ./:/root

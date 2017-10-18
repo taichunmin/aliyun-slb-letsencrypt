@@ -1,0 +1,7 @@
+pyOpenSSL==17.3.0
+aliyun_python_sdk_core==2.4.4
+aliyun_python_sdk_slb==3.2.1
+cryptography==2.1.1
+python-dotenv==0.7.1
+py2-ipaddress==3.4.1
+cffi==1.11.2
